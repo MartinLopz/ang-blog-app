@@ -1,0 +1,53 @@
+.container {
+    max-width: 900px;
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  .mt-5 {
+    margin-top: 3rem !important;
+  }
+  
+  .mb-5 {
+    margin-bottom: 3rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  .form-control {
+    margin-bottom: 1rem;
+  }
+  
+  .embed-responsive-16by9 {
+    overflow: hidden;
+    padding-top: 56.25%;
+    position: relative;
+    height: 0;
+  }
+  
+  .embed-responsive-item {
+    border: 0;
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+  
+  .btn-theme {
+    background-color: #026467;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .btn-theme:hover {
+    background-color: #014f50;
+    color: white;
+  }
+  

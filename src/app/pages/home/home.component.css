@@ -1,0 +1,13 @@
+.featured-section {
+    padding-left: 130px;
+    padding-right: 130px;
+    padding-bottom: 130px;
+
+    background-color:var(--primary-color);
+}
+.post-card {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}

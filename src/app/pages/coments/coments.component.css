@@ -1,0 +1,42 @@
+/* Estilos generales */
+.btn-primary {
+    background-color: var(--primary-color);
+    border-color: var(--primary-color);
+}
+
+.btn-secondary {
+    background-color: var(--secondary-color);
+    border-color: var(--secondary-color);
+}
+
+.card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+}
+
+.card-title {
+    color: var(--primary-color);
+}
+
+.card-text {
+    color: var(--body-text-color);
+}
+
+.progress-bar {
+    background-color: var(--primary-color);
+}
+
+.featured-section {
+    background-color: var(--secondary-color);
+    padding: 50px 0;
+}
+
+.featured-section h2 {
+    color: var(--primary-color);
+}
+
+.featured-section p {
+    color: var(--body-text-color);
+}
